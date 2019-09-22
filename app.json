@@ -231,6 +231,7 @@
       },
       "zigbee": {
         "manufacturerName": [
+          "abcd",
           "Ember",
           "EcoDim B.V"
         ],
