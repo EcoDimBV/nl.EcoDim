@@ -29,7 +29,7 @@
     "small": "{{driverAssetsPath}}/images/small.png"
   },
   "zigbee": {
-    "manufacturerName": ["EcoDim BV", "EcoDim B.V", "EcoDim B.V.", "Ember", "abcd", "Shyugj"],
+    "manufacturerName": ["EcoDim BV", "EcoDim B.V", "EcoDim B.V.", "Ember", "abcd", "Shyugj", "shyugj"],
     "productId": ["Dimmer-Switch-ZB3.0"],
     "endpoints": {
       "1": {
